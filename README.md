@@ -20,6 +20,10 @@ A Machine Learning web application that predicts the risk of heart disease based
 - Plotly
 - Streamlit
 
+## 🚀 Live Demo
+🔗 Streamlit App:  
+https://heartdiseasepredictionmodel-no7ujbpxnzzqcpwqvnknkd.streamlit.app/
+
 ## 📂 Project Structure
 
 ```text
